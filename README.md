@@ -24,9 +24,9 @@ And you can use this project as you wish!
 **Cloning the Repository**
 
 ```
-$ git@github.com:SouzaWesley/simpleDashboard.git
+$ git@github.com:SouzaWesley/dashboard.git
 
-$ cd dronesClone
+$ cd dashboardClone
 ```
 
 ### Running
